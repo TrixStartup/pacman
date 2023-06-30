@@ -1,0 +1,33 @@
+.pacman {
+    margin: 0;
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.containerP{
+    max-width: 1068px;
+    margin: auto;
+    width: 100%;
+}
+
+.pacman1{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.pacman2{
+    width: 43%;
+    font-size: 15px;
+    margin-bottom: 6px;
+    padding: 5px 10px;
+    background-color: black;
+    text-align: center;
+    height: 580px;
+}
